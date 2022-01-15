@@ -1,6 +1,13 @@
 
 .container {width: 95%;
 margin:auto}
+.fcontainer{
+  display: flex;
+  justify-content: center;
+}
+html{
+  scroll-behavior: smooth;
+}
 
 
 .box1{background-color:#00ccff;
@@ -9,10 +16,10 @@ text-shadow:2px 2px 25px #101010;
 font-family:Comic Sans MS;
 font-size:1.8em;
 line-height:2em;
-box-shadow: 20px 20px 8px #808080;
+box-shadow: 10px 10px 8px #00ccff44;
 margin-top: 10px;
 margin-bottom: 50px;
-border-radius: 50px 50px 50px 50px;
+border-radius: 25px 25px 25px 25px;
 }
 
 
@@ -22,12 +29,12 @@ text-shadow:2px 2px 25px #101010;
 font-family:Comic Sans MS;
 font-size:1.8em;
 line-height:2em;
-box-shadow: 20px 20px 8px #808080;
+box-shadow: 10px 10px 8px #66ff6670;
 padding-top: 10px;
 padding-right: 50px;
 padding-left:50px;
 padding bottom=20px;
-border-radius: 50px 50px 50px 50px;
+border-radius: 25px 25px 25px 25px;
 margin-bottom:50px;
 }
 
@@ -37,12 +44,12 @@ text-shadow:2px 2px 25px #101010;
 font-family:Comic Sans MS;
 font-size:1.8em;
 line-height:2em;
-box-shadow: 20px 20px 8px #808080;
+box-shadow: 10px 10px 8px #ff1a1a79;
 padding-top: 10px;
 padding-right: 50px;
 padding-left:50px;
 padding bottom=20px;
-border-radius: 50px 50px 50px 50px;
+border-radius: 25px 25px 25px 25px;
 margin-bottom:50px;}
 
 .box4{color:white;
@@ -51,12 +58,12 @@ text-shadow:2px 2px 25px #101010;
 font-family:Comic Sans MS;
 font-size:1.8em;
 line-height:2em;
-box-shadow: 20px 20px 8px #808080;
+box-shadow: 10px 10px 8px #ffff1a7a;
 padding-top: 10px;
 padding-right: 50px;
 padding-left:50px;
 padding bottom=20px;
-border-radius: 50px 50px 50px 50px;
+border-radius: 25px 25px 25px 25px;
 margin-bottom:50px;}
 .box4 ul{
 list-style:none;
@@ -67,12 +74,12 @@ text-shadow:2px 2px 25px #101010;
 font-family:Comic Sans MS;
 font-size:1.8em;
 line-height:2em;
-box-shadow: 20px 20px 8px #808080;
+box-shadow: 10px 10px 8px #cc00ff59;
 padding-top: 10px;
 padding-right: 50px;
 padding-left:50px;
 padding-bottom:50px;
-border-radius: 50px 50px 50px 50px;
+border-radius: 25px 25px 25px 25px;
 margin-bottom:50px;}
 .box6{color:white;
 background-color:#ff3399;
@@ -80,12 +87,12 @@ text-shadow:2px 2px 25px #101010;
 font-family:Comic Sans MS;
 font-size:1.8em;
 line-height:2em;
-box-shadow: 20px 20px 8px #808080;
+box-shadow: 10px 10px 8px #ff339957;
 padding-top: 10px;
 padding-right: 50px;
 padding-left:50px;
 padding-bottom:50px;
-border-radius:50px 50px 50px 50px;
+border-radius:25px 25px 25px 25px;
 margin-bottom:50px;}
 .btn{
   height:100%;
